@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./reactcourseBradTravery/index.css";
 
 import App from "./reactcourseBradTravery/App";
 
